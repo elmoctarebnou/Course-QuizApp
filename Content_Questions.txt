@@ -1,0 +1,33 @@
+
+------------------------------------------Content----------------------------------------------------------
+
+Topic: HTML, JS, and CSS
+Question 1: What is an example of semantic HTML
+a. <div>
+b. <img>
+c. <span>
+d. <footer> - correct
+
+Question 2: Which flexbox property spaces elements to opposite sides of the page?
+a. justify-content: space-evenly
+b. justify-content: space-between -- correct
+c. justify-content: center
+d. justify-content: flex-start
+
+Question 3: What is the correct for loop structure to loop through all elements of an array?
+a. for(let i = 0; i <= array.length; i++)
+b.for(let i = 1; i < array.length; i++)
+c. for(let i = 0; i < array.length; i++) -- correct
+d. for(let i; i < array.length; i++)
+
+Question 4: What is a high order function?
+a. A function that returns a variable
+b. A function that takes in a callback as an argument -- correct
+c. An anonymous function
+d. A function that returns an object
+
+Question 5: What is the correct jQuery selector to retrieve a main HTML tag
+a. $('main') -- correct
+b. $(main)
+c. ${'main'}
+d. ($'main')
